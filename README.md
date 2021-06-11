@@ -4,7 +4,7 @@
 <img src="https://dl.imtony.fr/downloads/AUTRES/1.png" alt="Discord1" />
 <br/>
 <h3 align="left">Requirements</h3>
-• NodeJS
+• NodeJS https://nodejs.org/fr/
 <br/>
 • Discord
 <br/>
