@@ -1,2 +1,7 @@
-# Discord_rpc_BT
-Ajoute des bouton sur son profil discord 
+<h1 align="center">Info</h1>
+
+<h3 align="left">Requirements</h3>
+• NodeJS
+<br/>
+• Discord
+<br/>
