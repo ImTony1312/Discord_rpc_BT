@@ -36,3 +36,9 @@ Exemple:
 <img src="https://dl.imtony.fr/downloads/AUTRES/943.png" alt="Discord99" />
 <br/>
 <br/> 
+6 (Facultatif). Modifier: [txtimg2] par le text que vous souhaitez
+<br/>
+Exemple:
+<img src="https://dl.imtony.fr/downloads/AUTRES/813.png" alt="Discord99" />
+<br/>
+<br/> 
