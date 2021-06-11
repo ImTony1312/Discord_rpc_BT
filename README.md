@@ -24,3 +24,15 @@ Exemple:
 <img src="https://dl.imtony.fr/downloads/AUTRES/25.png" alt="Discord99" />
 <br/>
 <br/> 
+4 (Facultatif). Modifier: [txtimg1] par le text que vous souhaitez
+<br/>
+Exemple:
+<img src="https://dl.imtony.fr/downloads/AUTRES/66.png" alt="Discord99" />
+<br/>
+<br/> 
+5 (Facultatif). Modifier: [img2] par le nom de la petite image dans [Discord Developeur > Rich Presence]
+<br/>
+Exemple:
+<img src="https://dl.imtony.fr/downloads/AUTRES/943.png" alt="Discord99" />
+<br/>
+<br/> 
