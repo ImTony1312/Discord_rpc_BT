@@ -8,6 +8,8 @@
 <br/>
 • Discord
 <br/>
+• Crée une app sur https://discord.com/developers/applications
+<br/>
 <h3 align="left">Mise en place</h3>
 1. Ouvrir le fichier index.js
 <br/>
@@ -51,4 +53,4 @@ Exemple:
 8. Modifier: [CLIENTID] par Application ID qui ce trouve dans https://discord.com/developers/applications
 <br/>
 <br/>
-END
+Pour finir il faut lancé le start.bat
