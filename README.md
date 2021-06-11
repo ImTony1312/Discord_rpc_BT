@@ -18,8 +18,7 @@ Exemple:
 <img src="https://dl.imtony.fr/downloads/AUTRES/99.png" alt="Discord99" />
 <br/>
 <br/> 
-<Ajouter des Images facultatif>
-000. Modifier: [img1] par le nom de l'image dans [Discord Developeur > Rich Presence]
+3 (Facultatif). Modifier: [img1] par le nom de l'image dans [Discord Developeur > Rich Presence]
 <br/>
 Exemple:
 <img src="https://dl.imtony.fr/downloads/AUTRES/25.png" alt="Discord99" />
