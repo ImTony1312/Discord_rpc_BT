@@ -42,3 +42,9 @@ Exemple:
 <img src="https://dl.imtony.fr/downloads/AUTRES/813.png" alt="Discord99" />
 <br/>
 <br/> 
+7. Modifier: [web1],[web2] par les nom des bouton et Modifier [url1],[url2] par les URL des bouton
+<br/>
+Exemple:
+<img src="https://dl.imtony.fr/downloads/AUTRES/991.png" alt="Discord99" />
+<br/>
+<br/> 
