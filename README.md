@@ -1,6 +1,6 @@
 <h1 align="center">Info</h1>
 
-<h3 align="left">Rendu Final</h3>
+<h3 align="left">Rendu Final (Exemple)</h3>
 <img src="https://dl.imtony.fr/downloads/AUTRES/1.png" alt="Discord1" />
 <br/>
 <h3 align="left">Requirements</h3>
