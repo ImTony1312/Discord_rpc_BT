@@ -14,5 +14,5 @@
 <br/>
 2. Modifier: [details] 
 
-<img src="https://dl.imtony.fr/downloads/AUTRES/2.png" alt="Discord2" />
+<img src="https://dl.imtony.fr/downloads/AUTRES/99.png" alt="Discord99" />
   
