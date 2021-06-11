@@ -12,6 +12,9 @@
 1. Ouvrir le fichier index.js
 <br/>
 2. Modifier: [details] 
+<details>
 <br/>
 <br/>
-<img src="https://dl.imtony.fr/downloads/AUTRES/2.png" alt="Discord2" />
+<img src="https://dl.imtony.fr/downloads/AUTRES/2.png" alt="Discord2" /><details/>
+  
+  reg
