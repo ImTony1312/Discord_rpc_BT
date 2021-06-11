@@ -7,4 +7,4 @@
 <br/>
 <h3 align="left">Mise en place</h3>
 Ouvrir le fichier index.js
-<img src="images/montagne.jpg" alt="Photo de montagne" />
+<img src="https://dl.imtony.fr/downloads/AUTRES/1.png" alt="Discord1" />
