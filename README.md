@@ -5,3 +5,4 @@
 <br/>
 • Discord
 <br/>
+<h3 align="left">Mise en place</h3>
