@@ -48,3 +48,7 @@ Exemple:
 <img src="https://dl.imtony.fr/downloads/AUTRES/991.png" alt="Discord99" />
 <br/>
 <br/> 
+8. Modifier: [CLIENTID] par Application ID qui ce trouve dans https://discord.com/developers/applications
+<br/>
+<br/>
+END
