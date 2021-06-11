@@ -11,4 +11,5 @@
 <h3 align="left">Mise en place</h3>
 1. Ouvrir le fichier index.js
 <br/>
+<br/>
 <img src="https://dl.imtony.fr/downloads/AUTRES/1.png" alt="Discord1" />
