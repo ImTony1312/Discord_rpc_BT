@@ -1,5 +1,13 @@
 <h1 align="center">Info</h1>
 
+<h3 align="left">Téléchargement:</h3>
+
+|        | Linux | Windows | MacOS |
+|--------|-------|---------|-------|
+| V 1 | [:floppy_disk:](https://github.com/microsoft/openjdk-aarch64/releases/download/jdk-11.0.12-ga/microsoft-jdk-11.0.12.7.1-linux-aarch64.tar.gz) | [:floppy_disk:](https://github.com/microsoft/openjdk-aarch64/releases/download/jdk-11.0.12-ga/microsoft-jdk-11.0.12.7.1-windows-aarch64.msi)<sup>1</sup> | :x:<sup>2</sup> |
+| V 2 | [:floppy_disk:](https://github.com/microsoft/openjdk-aarch64/releases/download/jdk-16.0.2-ga/microsoft-jdk-16.0.2.7.1-linux-aarch64.tar.gz)   | [:floppy_disk:](https://github.com/microsoft/openjdk-aarch64/releases/download/jdk-16.0.2-ga/microsoft-jdk-16.0.2.7.1-windows-aarch64.msi)     | [:floppy_disk:](https://github.com/microsoft/openjdk-aarch64/releases/download/jdk-16.0.2-ga/microsoft-jdk-16.0.2.7.1-macos-aarch64.pkg)   |
+
+
 <h3 align="left">Rendu Final (Exemple)</h3>
 <img src="https://dl.imtony.fr/downloads/AUTRES/1.png" alt="Discord1" />
 <br/>
