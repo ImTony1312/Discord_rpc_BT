@@ -4,7 +4,7 @@
 
 |        | Linux | Windows | MacOS |
 |--------|-------|---------|-------|
-| V 2 | [:floppy_disk:](https://github.com/ImTony1312/Discord_rpc_BT/raw/main/DiscordRPC_BT.zip)   | [:floppy_disk:](https://github.com/ImTony1312/Discord_rpc_BT/raw/main/DiscordRPC_BT.zip)     | [:floppy_disk:](https://github.com/ImTony1312/Discord_rpc_BT/raw/main/DiscordRPC_BT.zip)   |
+| V 1 | [:floppy_disk:](https://github.com/ImTony1312/Discord_rpc_BT/raw/main/DiscordRPC_BT.zip)   | [:floppy_disk:](https://github.com/ImTony1312/Discord_rpc_BT/raw/main/DiscordRPC_BT.zip)     | [:floppy_disk:](https://github.com/ImTony1312/Discord_rpc_BT/raw/main/DiscordRPC_BT.zip)   |
 
 
 <h3 align="left">Rendu Final (Exemple)</h3>
